@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Corto1_LaboPDM</string>
+    <string name="count_product">0</string>
+    <string name="txt_product">Producto</string>
 </resources>
